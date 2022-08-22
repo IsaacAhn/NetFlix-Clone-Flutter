@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351649408199",
+    "project_id": "saacflix",
+    "storage_bucket": "saacflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351649408199:android:1aae5da409e7c0ddf90ae2",
+        "android_client_info": {
+          "package_name": "com.isaac.netflix_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351649408199-l3mgckseg5pd50so97lmuv8e2je95hsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7LqhadX-kdXNSzNQ0gx3y-AnCw4DF7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351649408199-l3mgckseg5pd50so97lmuv8e2je95hsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
